@@ -1,0 +1,7 @@
+streamlit==1.34.0
+python-dotenv==1.0.1
+Pillow==10.3.0
+langchain==0.1.16
+langchain-google-genai==1.0.2
+langchain_community==0.0.34
+tavily-python==0.3.3
